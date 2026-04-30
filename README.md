@@ -37,4 +37,4 @@ or python download_data.py
     TorseqCD/preprocess_local_test.py
 
 This is for paper "TorSeqCD: Torsion Sequential Modeling for Molecular 3D Conformation Generation" peer review.
-If you have any problem, please contact xyxu@iastate.edu
+If you have any question, please contact xyxu@iastate.edu
