@@ -33,8 +33,9 @@ or python download_data.py
     python inference_global.py
     
 ## Testing
+    preprocess_local_test.py
     python test.py 
-    TorseqCD/preprocess_local_test.py
+    
 
 This is for paper "TorSeqCD: Torsion Sequential Modeling for Molecular 3D Conformation Generation" peer review.
 If you have any question, please contact xyxu@iastate.edu
