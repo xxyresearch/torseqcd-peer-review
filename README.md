@@ -33,7 +33,7 @@ or python download_data.py
     python inference_global.py
     
 ## Testing
-    preprocess_local_test.py
+    python preprocess_local_test.py
     python test.py 
     
 
